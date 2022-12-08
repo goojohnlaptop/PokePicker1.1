@@ -7,7 +7,8 @@ import theme from "./theme";
 import { ApolloProvider, ApolloClient, InMemoryCache } from "@apollo/client";
 
 const client = new ApolloClient({
-  uri: "https://beta.pokeapi.co/graphql/v1beta",
+  // uri: "https://beta.pokeapi.co/graphql/v1beta",
+  uri: "https://rickandmortyapi.com/graphql",
   cache: new InMemoryCache(),
 });
 

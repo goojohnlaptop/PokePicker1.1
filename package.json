@@ -12,7 +12,6 @@
     "@types/react-dom": "latest",
     "graphql": "^16.6.0",
     "lodash": "^4.17.21",
-    "pokemon-sprites": "github:PokeAPI/sprites",
     "react": "latest",
     "react-dom": "latest",
     "react-scripts": "latest",

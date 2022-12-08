@@ -6654,10 +6654,6 @@ pkg-up@^3.1.0:
   dependencies:
     find-up "^3.0.0"
 
-"pokemon-sprites@github:PokeAPI/sprites":
-  version "1.0.0"
-  resolved "https://codeload.github.com/PokeAPI/sprites/tar.gz/dcc711a0627510629ce2350f6adfade7a41a7dd5"
-
 postcss-attribute-case-insensitive@^5.0.2:
   version "5.0.2"
   resolved "https://registry.npmjs.org/postcss-attribute-case-insensitive/-/postcss-attribute-case-insensitive-5.0.2.tgz"
